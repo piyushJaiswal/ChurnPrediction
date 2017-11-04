@@ -1,5 +1,5 @@
 filenames = c("submission_xgb_1.csv", "submission_lightgbm_1.csv")
-wts = c(0.55, 0.45)
+wts = c(0.5, 0.5)
 
 
 final_df = data.table()
