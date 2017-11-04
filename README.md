@@ -1,4 +1,6 @@
 # ChurnPrediction
 
 Basic Xgb + LightGBM model
-Weight 0.5, 0.5
+
+
+Weight 0.55, 0.45
